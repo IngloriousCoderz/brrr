@@ -1,7 +1,7 @@
 {
-  "name": "your-app",
-  "description": "Description",
-  "author": "Your Name",
+  "name": "brrr",
+  "description": "Brunch + Redux + (React || Riot)",
+  "author": "Matteo Antony Mistretta (https://github.com/IceOnFire)",
   "version": "0.0.1",
   "repository": {
     "type": "git",

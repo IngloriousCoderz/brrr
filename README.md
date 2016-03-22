@@ -1,4 +1,4 @@
-# Redux + (React || Riot)
+# Brunch + Redux + (React || Riot)
 
 ## What's this
 
@@ -56,4 +56,11 @@ Then you can run it with the provided NPM scripts:
 ```bash
 npm start
 npm run prod
+```
+
+NOTE: I still haven't figured out how to use riot-brunch properly, so I had to install [riot-cli](https://github.com/riot/cli) and manually compile each tag with
+
+```bash
+riot --modular app/tags/counter.tag
+riot --modular app/tags/app.tag
 ```
